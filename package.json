@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/JuanManuelCM3331/Taller-git-ci--3223875---JuanManuelCardonaMolina-#readme",
   "devDependencies": {
-    "jest": "^30.2.0"
+    "jest": "^30.2.0",
+    "prettier": "3.7.3"
   }
 }
